@@ -1,0 +1,49 @@
+CEI Region,State,State Abb
+Northwest,Washington,WA
+Northwest,Oregon,OR
+Northwest,Idaho,ID
+West,California,CA
+West,Nevada,NV
+Southwest,Utah,UT
+Southwest,Colorado,CO
+Southwest,Arizona,AZ
+Southwest,New Mexico,NM
+Northern Rockies and Plains,Montana,MT
+Northern Rockies and Plains,Wyoming,WY
+Northern Rockies and Plains,North Dakota,ND
+Northern Rockies and Plains,South Dakota,SD
+Northern Rockies and Plains,Nebraska,NE
+Upper Midwest,Minnesota,MN
+Upper Midwest,Wisconsin,WI
+Upper Midwest,Iowa,IA
+Upper Midwest,Michigan,MI
+Ohio Valley,Missouri,MO
+Ohio Valley,Illinois,IL
+Ohio Valley,Indiana,IN
+Ohio Valley,Kentucky,KY
+Ohio Valley,Tennessee,TN
+Ohio Valley,Ohio,OH
+Ohio Valley,West Virginia,WV
+South,Kansas,KS
+South,Oklahoma,OK
+South,Texas,TX
+South,Arkansas,AR
+South,Louisiana,LA
+South,Mississippi,MS
+Southeast,Alabama,AL
+Southeast,Florida,FL
+Southeast,Georgia,GA
+Southeast,South Carolina,SC
+Southeast,North Carolina,NC
+Southeast,Virginia,VA
+Southeast,Maryland,MD
+Northeast,Delaware,DE
+Northeast,New Jersey,NJ
+Northeast,New York,NY
+Northeast,Pennsylvania,PA
+Northeast,Connecticut,CT
+Northeast,Rhode Island,RI
+Northeast,Massachusetts,MA
+Northeast,Vermont,VT
+Northeast,New Hampshire,NH
+Northeast,Maine,ME
