@@ -1,15 +1,32 @@
 # natl-parks-and-wx
 
-Project Title: National Park System Attendance and El Nino Southern Oscillations
+Project Title: US National Park System and Climate Extremes
 
 Project Description:
+This project investigates if attendance at National Park Sites across the United States is influenced by climate extremes. National Park Service sites are diverse in their locations and environments as well as in their visitors, drawing people from all over the world. The manifestation of climate impacts vary across the United States due to the same variations in environment. With many years of data for both park attendance and climate extremes, there is opportunity to investigate a variety of conditions and combinations of factors. 
 
 Website:
 
 Repository Structure:
 
+
 Pre-Requisites:
-Python:
+Python: 3.13
 Packages:
+- requests
+- pandas
+- json
+- numpy
+- seaborn
+- matplotlib
 
 Milestone Outline:
+Part 1: Define the project. Collect, clean, prepare, explore, and visualize data. 
+
+Part 2: Clustering (partitional and hierarchical) and Association Rule Mining (ARM).
+
+Part 3: Naïve Bayes and Decision Trees
+
+Part 4: Support Vector Machines (SVM)
+
+Part  5: Linear Regression and Neural Networks
