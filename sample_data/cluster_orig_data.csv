@@ -1,0 +1,425 @@
+,Park_Code,Visitors,Designation,Gross Area Acres,State List,State Count,CEI Region
+0,ABLI,244532.914893617,National Historical Park,344.5,KY,1,Ohio Valley
+1,ACAD,3024556.744680851,National Park,49076.65,ME,1,Northeast
+2,ADAM,105969.93617021276,National Historical Park,23.82,MA,1,Northeast
+3,AFBG,42302.1,National Monument,0.35,NY,1,Northeast
+4,AGFO,14567.63829787234,National Monument,3057.87,NE,1,Northern Rockies and Plains
+5,ALAG,66.5,Wild River,30664.79,AK,1,OCONUS
+6,ALFL,3956.468085106383,National Monument,1370.97,TX,1,South
+7,ALPO,132360.29787234042,National Historic Site,1284.27,PA,1,Northeast
+8,AMCH,644.2,National Historic Site,472.59,CO,1,Southwest
+9,AMIS,1274999.574468085,National Recreation Area,62945.15,TX,1,South
+10,ANDE,131695.72340425532,National Historic Site,515.61,GA,1,Southeast
+11,ANIA,294.675,National Monument & Preserve,464117.93,AK,1,OCONUS
+12,ANIA,294.675,National Monument & Preserve,137176.0,AK,1,OCONUS
+13,ANJO,59804.936170212764,National Historic Site,16.68,TN,1,Ohio Valley
+14,ANTI,312382.93617021275,National Battlefield,3287.63,MD,1,Southeast
+15,APCO,217931.17021276595,National Historical Park,1774.6,VA,1,Southeast
+16,APIS,175137.2340425532,National Lakeshore,69377.43,WI,1,Upper Midwest
+17,APPA,310755.9,National Scenic Trail,244402.52,"CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV",14,Multiple
+18,ARCH,907518.1489361703,National Park,76678.98,UT,1,Southwest
+19,ARHO,462560.5319148936,Undesignated,17.12,VA,1,Southeast
+20,ARPO,45014.936170212764,National Memorial,757.51,AR,1,South
+21,ASIS,2120620.5319148935,National Seashore,41311.27,"MD,VA",2,Multiple
+22,AZRU,56426.97872340425,National Monument,318.4,NM,1,Southwest
+23,BADL,1025354.0,National Park,242742.9,SD,1,Northern Rockies and Plains
+24,BAND,250085.31914893616,National Monument,33676.67,NM,1,Southwest
+25,BELA,1732.7,National Preserve,2697391.01,AK,1,OCONUS
+26,BEOL,34100.0,National Historic Site,798.54,CO,1,Southwest
+27,BEPA,2568.9,National Monument,0.34,DC,1,Southeast
+28,BIBE,332035.27659574465,National Park,801162.34,TX,1,South
+29,BICA,290693.3191489362,National Recreation Area,120296.2,"MT,WY",2,Northern Rockies and Plains
+30,BICY,803471.65,National Preserve,146110.69,FL,1,Southeast
+31,BICY,803471.65,National Preserve,574453.32,FL,1,Southeast
+32,BIHO,47903.085106382976,National Battlefield,969.61,MT,1,Northern Rockies and Plains
+33,BISC,464136.6170212766,National Park,172971.11,FL,1,Southeast
+34,BISO,708964.075,National River & Recreation Area,123702.05,"KY,TN",2,Ohio Valley
+35,BITH,119280.89361702128,National Preserve,113121.96,TX,1,South
+36,BLCA,245935.7659574468,National Park,30779.83,CO,1,Southwest
+37,BLRI,16534144.914893618,Parkway,102397.89,"NC,VA",2,Southeast
+38,BLUE,34610.7,National Scenic River,4309.51,WV,1,Ohio Valley
+39,BOAF,308436.4,National Historic Site,0.59,MA,1,Northeast
+40,BOHA,9121.4,National Recreation Area,2230.71,MA,1,Northeast
+41,BOST,2137525.638297872,National Historical Park,43.82,MA,1,Northeast
+42,BOWA,22091.702127659573,National Monument,239.01,VA,1,Southeast
+43,BRCA,1249369.2127659575,National Park,35835.08,UT,1,Southwest
+44,BRVB,10712.55,National Historical Park,3.15,KS,1,South
+45,BUFF,1059729.7021276595,National River,94301.32,AR,1,South
+46,BUIS,45588.34042553192,National Monument,19015.47,VI,1,OCONUS-T
+47,CABR,1065828.1063829786,National Monument,159.94,CA,1,West
+48,CACH,646628.8936170213,National Monument,83840.0,AZ,1,Southwest
+49,CACL,3048976.14893617,National Monument,1.0,NY,1,Northeast
+50,CACO,4499016.489361702,National Seashore,43591.32,MA,1,Northeast
+51,CAGR,111649.31914893616,National Monument,472.5,AZ,1,Southwest
+52,CAHA,2246089.234042553,National Seashore,30350.65,NC,1,Southeast
+53,CAKR,6844.234042553191,National Monument,649096.15,AK,1,OCONUS
+54,CALO,398583.7021276596,National Seashore,28243.36,NC,1,Southeast
+55,CANA,1260783.6170212766,National Seashore,57661.69,FL,1,Southeast
+56,CANE,6559.4,National Monument,464.97,KY,1,Ohio Valley
+57,CANY,427790.7659574468,National Park,337597.83,UT,1,Southwest
+58,CARE,697338.4468085107,National Park,241904.5,UT,1,Southwest
+59,CARI,13426.9,National Historical Park,235.37,LA,1,South
+60,CARL,58148.78723404255,National Historic Site,268.49,NC,1,Southeast
+61,CASA,677835.0638297872,National Monument,19.38,FL,1,Southeast
+62,CATO,448422.57446808513,Park,5890.92,MD,1,Southeast
+63,CAVE,536002.2127659575,National Park,46766.45,NM,1,Southwest
+64,CAVO,58520.72340425532,National Monument,792.84,NM,1,Southwest
+65,CAWO,340.85,National Historic Site,0.15,DC,1,Southeast
+66,CEBR,560649.659574468,National Monument,6154.6,UT,1,Southwest
+67,CECH,9308.4,National Monument,116.56,CA,1,West
+68,CHAM,152074.40425531915,National Memorial,54.54,TX,1,South
+69,CHAT,2469283.234042553,National Recreation Area,12416.5,GA,1,Southeast
+70,CHCH,965723.2978723404,National Military Park,9523.48,"GA,TN",2,Multiple
+71,CHCU,57737.48936170213,National Historical Park,33960.19,NM,1,Southwest
+72,CHIC,1567872.2340425532,National Recreation Area,9898.63,OK,1,South
+73,CHIR,64852.02127659575,National Monument,12024.73,AZ,1,Southwest
+74,CHIS,310450.1914893617,National Park,249561.0,CA,1,West
+75,CHOH,3790913.14893617,National Historical Park,19630.99,"DC,MD,WV",3,Multiple
+76,CHPI,27095.75,National Historic Site,28.45,SC,1,Southeast
+77,CHRI,108640.36170212766,National Historic Site,27.15,VI,1,OCONUS-T
+78,CHSC,47642.85,National Historic Site,28.22,AR,1,South
+79,CHYO,4934.1,National Monument,59.66,OH,1,Ohio Valley
+80,CIRO,75393.0,National Reserve,14512.27,ID,1,Northwest
+81,CLBA,13287.744680851063,National Historic Site,8.59,MD,1,Southeast
+82,COLM,370665.0425531915,National Monument,20536.39,CO,1,Southwest
+83,COLO,3334758.1276595746,National Historical Park,8675.04,VA,1,Southeast
+84,CONG,93907.74468085106,National Park,26692.6,SC,1,Southeast
+85,CORO,92573.76595744681,National Memorial,4830.22,AZ,1,Southwest
+86,COWP,169777.2340425532,National Battlefield,841.56,SC,1,Southeast
+87,CRLA,489756.02127659577,National Park,183224.05,OR,1,Northwest
+88,CRMO,223280.93617021278,National Monument & Preserve,53437.64,ID,1,Northwest
+89,CRMO,223280.93617021278,National Monument & Preserve,698939.69,ID,1,Northwest
+90,CUGA,868812.6382978724,National Historical Park,24546.83,"KY,TN,VA",3,Multiple
+91,CUIS,48965.744680851065,National Seashore,36346.83,GA,1,Southeast
+92,CURE,978506.9574468085,National Recreation Area,43590.56,CO,1,Southwest
+93,CUVA,2228460.829787234,National Park,32607.2,OH,1,Ohio Valley
+94,DAAV,47594.575,National Historical Park,110.53,OH,1,Ohio Valley
+95,DDEM,182435.05,Memorial,3.39,DC,1,Southeast
+96,DENA,433597.5106382979,National Park & Preserve,1334117.8,AK,1,OCONUS
+97,DENA,433597.5106382979,National Park & Preserve,4740911.16,AK,1,OCONUS
+98,DEPO,114512.89361702128,National Monument,800.19,CA,1,West
+99,DESO,225065.97872340426,National Memorial,30.0,FL,1,Southeast
+100,DETO,393485.89361702127,National Monument,1347.21,WY,1,Northern Rockies and Plains
+101,DEVA,956472.6170212766,National Park,3408374.95,"CA,NV",2,West
+102,DEWA,3962587.723404255,National Recreation Area,68708.88,"NJ,PA",2,Northeast
+103,DINO,355371.6808510638,National Monument,210281.92,"CO,UT",2,Southwest
+104,DRTO,48876.46808510638,National Park,64701.22,FL,1,Southeast
+105,EDAL,12172.446808510638,National Historic Site,0.52,PA,1,Northeast
+106,EDIS,41067.48936170213,National Historical Park,21.25,NJ,1,Northeast
+107,EFMO,81032.46808510639,National Monument,2526.39,IA,1,Upper Midwest
+108,EISE,83902.9574468085,National Historic Site,690.46,PA,1,Northeast
+109,ELMA,115130.9,National Monument,114247.25,NM,1,Southwest
+110,ELMO,57233.44680851064,National Monument,1278.72,NM,1,Southwest
+111,ELRO,46626.44680851064,National Historic Site,180.5,NY,1,Northeast
+112,EUON,4641.425531914893,National Historic Site,13.19,CA,1,West
+113,EVER,919556.7234042553,National Park,108399.27,FL,1,Southeast
+114,EVER,919556.7234042553,National Park,1400539.3,FL,1,Southeast
+115,FEHA,174575.3404255319,National Memorial,0.45,NY,1,Northeast
+116,FIIS,520046.9574468085,National Seashore,19580.65,NY,1,Northeast
+117,FILA,10239.9,National Historic Site,0.46,OH,1,Ohio Valley
+118,FLFO,76601.68085106384,National Monument,6278.09,CO,1,Southwest
+119,FLNI,280417.05,National Memorial,2262.65,PA,1,Northeast
+120,FOBO,8185.340425531915,National Historic Site,1000.0,AZ,1,Southwest
+121,FOBU,19393.40425531915,National Monument,8198.0,WY,1,Northern Rockies and Plains
+122,FODA,56029.29787234042,National Historic Site,523.0,TX,1,South
+123,FODO,241307.63829787233,National Battlefield,1316.97,"KY,TN",2,Ohio Valley
+124,FOFR,262384.170212766,National Monument,305.34,GA,1,Southeast
+125,FOLA,62074.44680851064,National Historic Site,873.11,WY,1,Northern Rockies and Plains
+126,FOLS,36097.53191489362,National Historic Site,718.39,KS,1,South
+127,FOMA,547354.7659574468,National Monument,300.11,FL,1,Southeast
+128,FOMC,584362.2553191489,National Monument and Historic Shrine,43.26,MD,1,Southeast
+129,FONE,176895.87234042553,National Battlefield,902.8,PA,1,Northeast
+130,FOPO,1377619.0,National Historic Site,29.0,CA,1,West
+131,FOPU,359648.3829787234,National Monument,5623.1,GA,1,Southeast
+132,FORA,289480.5106382979,National Historic Site,515.73,NC,1,Southeast
+133,FOSC,43062.31914893617,National Historic Site,20.08,KS,1,South
+134,FOSM,98183.17021276595,National Historic Site,75.0,"AR,OK",2,Multiple
+135,FOST,69792.76595744681,National Monument,15.52,NY,1,Northeast
+136,FOSU,527277.1702127659,National Historical Park,232.52,SC,1,Southeast
+137,FOTH,720418.5957446808,National Historic Site,0.3,DC,1,Southeast
+138,FOUN,13175.31914893617,National Monument,720.6,NM,1,Southwest
+139,FOUS,17921.042553191488,National Historic Site,440.14,"MT,ND",2,Northern Rockies and Plains
+140,FOVA,562571.6808510638,National Historic Site,208.39,"OR,WA",2,Northwest
+141,FOWA,348901.06382978725,Park,345.05,MD,1,Southeast
+142,FRDE,2076893.625,Undesignated,8.14,DC,1,Southeast
+143,FRDO,40047.382978723406,National Historic Site,8.57,DC,1,Southeast
+144,FRHI,22569.17021276596,National Historic Site,674.56,PA,1,Northeast
+145,FRLA,5736.489361702128,National Historic Site,7.21,MA,1,Northeast
+146,FRSP,637908.8297872341,National Military Park,8585.11,VA,1,Southeast
+147,FRST,27604.4,National Historical Park,1409.22,"DE,PA",2,Northeast
+148,GAAR,6695.0,National Park & Preserve,948608.07,AK,1,OCONUS
+149,GAAR,6695.0,National Park & Preserve,7523897.45,AK,1,OCONUS
+150,GARI,135326.625,National Recreation Area,11483.44,WV,1,Ohio Valley
+151,GATE,7898981.510638298,National Recreation Area,26610.45,"NY,NJ",2,Northeast
+152,GEGR,82508.63829787234,National Memorial,0.76,NY,1,Northeast
+153,GERO,124820.9574468085,National Historical Park,26.17,IN,1,Ohio Valley
+154,GETT,1278201.8510638298,National Military Park,6037.14,PA,1,Northeast
+155,GEWA,122093.63829787234,National Monument,654.19,VA,1,Southeast
+156,GICL,45193.936170212764,National Monument,533.13,NM,1,Southwest
+157,GLAC,2117870.787234043,National Park,1013126.39,MT,1,Northern Rockies and Plains
+158,GLBA,342711.44680851063,National Park & Preserve,58406.0,AK,1,OCONUS
+159,GLBA,342711.44680851063,National Park & Preserve,3223383.43,AK,1,OCONUS
+160,GLCA,2677893.7021276597,National Recreation Area,1254116.62,"AZ,UT",2,Southwest
+161,GOGA,15472769.021276595,National Recreation Area,82347.82,CA,1,West
+162,GOIS,153554.4,National Monument,22.91,NY,1,Northeast
+163,GOSP,50255.1914893617,National Historical Park,2735.28,UT,1,Southwest
+164,GRBA,88409.31914893616,National Park,77180.0,NV,1,West
+165,GRCA,4167637.5531914895,National Park,1201647.03,AZ,1,Southwest
+166,GREE,209626.02127659574,Park,1175.98,MD,1,Southeast
+167,GRKO,23334.893617021276,National Historic Site,1618.43,MT,1,Northern Rockies and Plains
+168,GRPO,72178.85106382979,National Monument,709.97,MN,1,Upper Midwest
+169,GRSA,301826.21276595746,National Park & Preserve,41686.0,CO,1,Southwest
+170,GRSA,301826.21276595746,National Park & Preserve,107336.95,CO,1,Southwest
+171,GRSM,9858940.89361702,National Park,522426.88,"NC,TN",2,Southeast
+172,GRTE,1913983.574468085,National Park,310044.36,WY,1,Northern Rockies and Plains
+173,GRTE,1913983.574468085,National Park,23777.22,WY,1,Northern Rockies and Plains
+174,GRTE,1913983.574468085,National Park,310044.36,WY,1,Northern Rockies and Plains
+175,GRTE,1913983.574468085,National Park,23777.22,WY,1,Northern Rockies and Plains
+176,GUCO,348221.10638297873,National Military Park,254.9,NC,1,Southeast
+177,GUIS,4698963.489361702,National Seashore,138306.64,"FL,MS",2,Multiple
+178,GUMO,182789.74468085106,National Park,86367.1,TX,1,South
+179,GWCA,48918.89361702128,National Monument,240.0,MO,1,Ohio Valley
+180,GWMP,7104075.723404256,Memorial Parkway,6719.21,"DC,MD,VA",3,Multiple
+181,HAFE,410057.08510638296,National Historical Park,3666.21,"WV,VA,MD",3,Multiple
+182,HAFO,16787.025,National Monument,4351.15,ID,1,Northwest
+183,HAGR,25604.17021276596,National Memorial,1.75,NY,1,Northeast
+184,HALE,1172331.0,National Park,33489.24,HI,1,OCONUS
+185,HAMP,33929.063829787236,National Historic Site,62.04,MD,1,Southeast
+186,HART,47.05,National Historical Park,31.5,NY,1,Northeast
+187,HATU,2237.0,National Historical Park,480.0,MD,1,Southeast
+188,HAVO,1421612.9787234042,National Park,344812.18,HI,1,OCONUS
+189,HEHO,186604.87234042553,National Historic Site,186.8,IA,1,Upper Midwest
+190,HOBE,74318.91489361702,National Military Park,2040.0,AL,1,Southeast
+191,HOCU,42032.68085106383,National Historical Park,1775.78,OH,1,Ohio Valley
+192,HOFR,159648.40425531915,National Historic Site,838.43,NY,1,Northeast
+193,HOFU,81994.82978723405,National Historic Site,848.06,PA,1,Northeast
+194,HOME,49491.70212765958,National Historical Park,210.45,NE,1,Northern Rockies and Plains
+195,HOSP,1455157.6170212766,National Park,5554.15,AR,1,South
+196,HOVE,26768.23404255319,National Monument,784.93,"CO,UT",2,Southwest
+197,HSTR,48142.46808510638,National Historic Site,13.67,MO,1,Ohio Valley
+198,HUTR,128789.93617021276,National Historic Site,160.09,AZ,1,Southwest
+199,IATR,2941.8,National Scenic Trail,235.16,WI,1,Upper Midwest
+200,INDE,3573091.489361702,National Historical Park,44.87,PA,1,Northeast
+201,INDU,1887907.170212766,National Park,16034.81,IN,1,Ohio Valley
+202,ISRO,20500.872340425532,National Park,571790.3,MI,1,Upper Midwest
+203,JAGA,19058.075,National Historic Site,7.82,OH,1,Ohio Valley
+204,JAZZ,38349.05,National Historical Park,5.13,LA,1,South
+205,JECA,118947.29787234042,National Monument,1273.51,SD,1,Northern Rockies and Plains
+206,JEFF,2415020.5531914895,National Park,192.83,MO,1,Ohio Valley
+207,JELA,584506.5957446808,National Historical Park and Preserve,25875.4,LA,1,South
+208,JICA,49217.75,National Historical Park,78.35,GA,1,Southeast
+209,JODA,129716.48936170213,National Monument,14062.19,OR,1,Northwest
+210,JOFI,14782.468085106382,National Historic Site,0.09,MA,1,Northeast
+211,JOFL,118613.89361702128,National Memorial,177.76,PA,1,Northeast
+212,JOMU,33466.914893617024,National Historic Site,388.5,CA,1,West
+213,JOTR,1513777.7234042552,National Park,795155.85,CA,1,West
+214,KAHO,121578.4,National Historical Park,1163.05,HI,1,OCONUS
+215,KALA,42545.575,National Historical Park,10778.88,HI,1,OCONUS
+216,KATM,39184.51063829787,National Park & Preserve,418698.8,AK,1,OCONUS
+217,KATM,39184.51063829787,National Park & Preserve,3674529.33,AK,1,OCONUS
+218,KAWW,11580.55,National Monument,87564.27,ME,1,Northeast
+219,KEAQ,1352338.0212765958,Undesignated,2935.1,DC,1,Southeast
+220,KEFJ,216995.25531914894,National Park,669650.05,AK,1,OCONUS
+221,KEMO,9889.25,National Battlefield Park,1870.0,GA,1,Southeast
+222,KIMO,243541.27659574468,National Military Park,3945.29,SC,1,Southeast
+223,KLGO,73487.65957446808,National Historical Park,12996.49,AK,1,OCONUS
+224,KLSE,574535.3829787234,National Historical Park,12996.49,WA,1,Northwest
+225,KNRI,16952.063829787236,National Historic Site,1751.0,ND,1,Northern Rockies and Plains
+226,KOVA,6066.872340425532,National Park,1750716.16,AK,1,OCONUS
+227,KOWA,2439515.65,Undesignated,1.56,DC,1,Southeast
+228,LABE,111344.85106382979,National Monument,46692.42,CA,1,West
+229,LACL,10951.255319148937,National Park & Preserve,1410293.68,AK,1,OCONUS
+230,LACL,10951.255319148937,National Park & Preserve,2619816.49,AK,1,OCONUS
+231,LAKE,7500626.085106383,National Recreation Area,1495855.53,"AZ,NV",2,Multiple
+232,LAMR,1279637.0,National Recreation Area,44977.63,TX,1,South
+233,LARO,1226968.574468085,National Recreation Area,100390.31,WA,1,Northwest
+234,LAVO,420819.27659574465,National Park,106589.02,CA,1,West
+235,LECL,217012.8510638298,National Historic Trail,3409.28,"IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV",16,Multiple
+236,LEWI,158961.5744680851,National Historical Park,199.96,"OR,WA",2,Northwest
+237,LIBI,282308.27659574465,National Monument,765.34,MT,1,Northern Rockies and Plains
+238,LIBO,351397.57446808513,National Memorial,12.24,IN,1,Ohio Valley
+239,LINC,4418627.893617021,Undesignated,7.29,DC,1,Southeast
+240,LIRI,231431.0,National Preserve,15293.88,AL,1,Southeast
+241,LONG,30760.40425531915,National Historic Site,1.98,MA,1,Northeast
+242,LOWE,517532.3617021277,National Historical Park,138.72,MA,1,Northeast
+243,LYBA,444363.93617021275,Undesignated,17.0,DC,1,Southeast
+244,LYJO,160200.3829787234,National Historical Park,1571.75,TX,1,South
+245,MABI,29137.575,National Historical Park,643.07,VT,1,Northeast
+246,MACA,1268216.4680851065,National Park,72041.73,KY,1,Ohio Valley
+247,MALU,667307.9361702128,National Historical Park,39.17,GA,1,Southeast
+248,MAMC,5474.55,National Historic Site,0.07,DC,1,Southeast
+249,MANA,686062.0,National Battlefield Park,5086.87,VA,1,Southeast
+250,MANZ,54634.9,National Historic Site,813.81,CA,1,West
+251,MAPR,29981.5,National Historical Park,113.61,"NM,WA,TN",3,Multiple
+252,MAVA,14699.234042553191,National Historic Site,284.93,NY,1,Northeast
+253,MAWA,6818.531914893617,National Historic Site,1.29,VA,1,Southeast
+254,MEMY,10226.55,National Monument,0.74,MS,1,South
+255,MEVE,562986.1063829787,National Park,52485.17,CO,1,Southwest
+256,MIIN,7813.1,National Historic Site,396.3,"ID,WA",2,Northwest
+257,MIMA,1007763.4468085107,National Historical Park,1027.76,MA,1,Northeast
+258,MIMI,44032.0,National Historic Site,43.8,SD,1,Northern Rockies and Plains
+259,MISP,1412.8,National Monument,1454.23,KY,1,Ohio Valley
+260,MISS,175875.0,National River & Recreation Area,53775.0,MN,1,Upper Midwest
+261,MLKM,2278136.55,Undesignated,2.74,DC,1,Southeast
+262,MNRR,77149.875,National Recreational River,48456.55,"SD,NE",2,Northern Rockies and Plains
+263,MOCA,601979.4042553192,National Monument,1015.52,AZ,1,Southwest
+264,MOCR,60493.51063829787,National Battlefield,87.75,NC,1,Southeast
+265,MOJA,434062.45,National Preserve,1549966.76,CA,1,West
+266,MONO,45130.35,National Battlefield,1646.87,MD,1,Southeast
+267,MORA,1314261.8936170214,National Park,236381.64,WA,1,Northwest
+268,MORR,419307.78723404254,National Historical Park,1710.72,NJ,1,Northeast
+269,MORU,1949945.914893617,National Memorial,1278.45,SD,1,Northern Rockies and Plains
+270,MUWO,1068099.7872340425,National Monument,553.55,CA,1,West
+271,NABR,95486.08510638298,National Monument,7636.49,UT,1,Southwest
+272,NACE,938367.7,Undesignated,8517.28,DC,1,Southeast
+273,NAMA,1234767.45,Undesignated,155.84,DC,1,Southeast
+274,NATC,144289.825,National Historical Park,122.22,MS,1,South
+275,NATR,7321651.659574468,Parkway,52380.46,"AL,MS,TN",3,Multiple
+276,NAVA,65177.914893617024,National Monument,360.0,AZ,1,Southwest
+277,NEBE,142673.8,National Historical Park,34.0,MA,1,Northeast
+278,NEPE,232896.8510638298,National Historical Park,4564.93,"ID,MT,OR,WA",4,Multiple
+279,NERI,962065.340425532,National Park & Preserve,72390.91,WV,1,Ohio Valley
+280,NICO,8437.4,National Historic Site,5.61,KS,1,South
+281,NIOB,39109.475,National Scenic River,29088.57,NE,1,Northern Rockies and Plains
+282,NISI,50162.44680851064,National Historic Site,1021.94,SC,1,Southeast
+283,NOAT,7582.936170212766,National Preserve,6587071.39,AK,1,OCONUS
+284,NOCA,238726.9842519685,National Park,61939.15,WA,1,Northwest
+285,NOCA,238726.9842519685,National Park,504780.94,WA,1,Northwest
+286,NOCA,238726.9842519685,National Park,117574.59,WA,1,Northwest
+287,NOCA,238726.9842519685,National Park,61939.15,WA,1,Northwest
+288,NOCA,238726.9842519685,National Park,504780.94,WA,1,Northwest
+289,NOCA,238726.9842519685,National Park,117574.59,WA,1,Northwest
+290,NOCA,238726.9842519685,National Park,61939.15,WA,1,Northwest
+291,NOCA,238726.9842519685,National Park,504780.94,WA,1,Northwest
+292,NOCA,238726.9842519685,National Park,117574.59,WA,1,Northwest
+293,NPSA,9123.875,Undesignated,8256.67,AS,1,OCONUS-T
+294,OBED,197703.5,Wild & Scenic River,5489.85,TN,1,Ohio Valley
+295,OCMU,128146.9574468085,National Historical Park,3444.32,GA,1,Southeast
+296,OLYM,3015807.6808510637,National Park,923045.8,WA,1,Northwest
+297,ORCA,87384.10638297872,National Monument & Preserve,4554.03,OR,1,Northwest
+298,ORPI,233151.914893617,National Monument,330688.86,AZ,1,Southwest
+299,OXHI,1429792.5531914893,Undesignated,80784.3,MD,1,Southeast
+300,PAAL,42871.025,National Historical Park,3426.87,TX,1,South
+301,PAAV,181618.125,Undesignated,17.61,DC,1,Southeast
+302,PAGR,124359.6,National Historical Park,51.34,NJ,1,Northeast
+303,PAIS,655021.085106383,National Seashore,130434.27,TX,1,South
+304,PECO,40441.34042553192,National Historical Park,6885.87,NM,1,Southwest
+305,PEFO,686231.5319148937,National Park,221390.21,AZ,1,Southwest
+306,PERI,98478.12765957447,National Military Park,4440.82,AR,1,South
+307,PETE,272122.93617021275,National Battlefield,9598.67,VA,1,Southeast
+308,PETR,127694.025,National Monument,7204.43,NM,1,Southwest
+309,PEVI,143073.1914893617,Memorial,25.38,OH,1,Ohio Valley
+310,PINN,203794.48936170212,National Park,26685.73,CA,1,West
+311,PIPE,93933.10638297872,National Monument,297.08,MN,1,Upper Midwest
+312,PIRO,572763.1063829787,National Lakeshore,73235.97,MI,1,Upper Midwest
+313,PISC,184792.8510638298,Park,4620.06,MD,1,Southeast
+314,PISP,42590.63829787234,National Monument,40.0,AZ,1,Southwest
+315,POCH,658.05,National Memorial,5.0,CA,1,West
+316,PORE,2206932.8936170214,National Seashore,71026.38,CA,1,West
+317,PRWI,314808.7021276596,Park,16062.92,VA,1,Southeast
+318,PUHE,71920.14893617021,National Historic Site,86.24,HI,1,OCONUS
+319,PUHO,418500.91489361704,National Historical Park,419.8,HI,1,OCONUS
+320,PULL,4177.3,National Historical Park,203.48,IL,1,Ohio Valley
+321,RABR,141654.085106383,National Monument,160.0,UT,1,Southwest
+322,REDW,464188.829787234,National and State Parks,139090.97,CA,1,West
+323,REER,4431.9,National Historical Park,16.08,SC,1,Southeast
+324,RICH,195078.46808510637,National Battlefield Park,8144.28,VA,1,Southeast
+325,RIGR,533.2553191489362,Wild & Scenic River,13123.39,TX,1,South
+326,RIRA,132963.4,National Battlefield Park,42.18,MI,1,Upper Midwest
+327,ROCR,1993514.6382978724,Park,1754.7,DC,1,Southeast
+328,ROMO,3159566.255319149,National Park,265917.74,CO,1,Southwest
+329,RORI,27072.15,National Historical Park,145.19,CA,1,West
+330,ROWI,43278.31914893617,National Memorial,4.56,RI,1,Northeast
+331,RUCA,23100.425531914894,National Monument,310.45,AL,1,Southeast
+332,SAAN,928319.5531914893,National Historical Park,990.28,TX,1,South
+333,SACN,502286.3617021277,National Scenic Riverway,25276.45,"WI,MN",2,Upper Midwest
+334,SACN,502286.3617021277,National Scenic Riverway,68738.95,"WI,MN",2,Upper Midwest
+335,SACR,7748.5,International Historic Site,6.5,ME,1,Northeast
+336,SAFR,3429352.575,National Historical Park,49.86,CA,1,West
+337,SAGA,33501.44680851064,National Historical Park,190.75,NH,1,Northeast
+338,SAGU,732448.2765957447,National Park,92799.73,AZ,1,Southwest
+339,SAHI,86748.48936170213,National Historic Site,83.02,NY,1,Northeast
+340,SAIR,27404.042553191488,National Historic Site,8.51,MA,1,Northeast
+341,SAJH,266304.2340425532,National Historical Park,2145.56,WA,1,Northwest
+342,SAJU,1392637.2978723405,National Historic Site,75.13,PR,1,OCONUS-T
+343,SAMA,606225.2978723404,National Historical Park,9.02,MA,1,Northeast
+344,SAMO,521845.829787234,National Recreation Area,153121.09,CA,1,West
+345,SAND,4366.85,National Historic Site,12583.34,CO,1,Southwest
+346,SAPA,10292.125,National Historic Site,6.13,NY,1,Northeast
+347,SAPU,35015.97872340425,National Monument,1071.42,NM,1,Southwest
+348,SARA,119002.76595744681,National Historical Park,3607.59,NY,1,Northeast
+349,SARI,6817.95,National Historical Park and Ecological Preserve,989.42,VI,1,OCONUS-T
+350,SCBL,143409.72340425532,National Monument,3004.73,NE,1,Northern Rockies and Plains
+351,SEKI,852030.8936170213,National Parks,461901.37,CA,1,West
+352,SEKI,852030.8936170213,National Parks,404062.63,CA,1,West
+353,SEKI,852030.8936170213,National Parks,461901.37,CA,1,West
+354,SEKI,852030.8936170213,National Parks,404062.63,CA,1,West
+355,SHEN,1527528.680851064,National Park,200454.01,VA,1,Southeast
+356,SHIL,357866.7021276596,National Military Park,9319.16,"TN,MS",2,Multiple
+357,SITK,185117.7659574468,National Historical Park,116.29,AK,1,OCONUS
+358,SLBE,1236435.829787234,National Lakeshore,71318.57,MI,1,Upper Midwest
+359,SPRA,17784.23404255319,National Monument,3.23,IL,1,Ohio Valley
+360,STEA,99640.625,National Historic Site,62.48,PA,1,Northeast
+361,STGE,2020.9,National Historical Park,17.47,MO,1,Ohio Valley
+362,STLI,3343341.0425531915,National Monument,58.38,NY,1,Northeast
+363,STON,389613.45,National Monument,7.7,NY,1,Northeast
+364,STRI,228477.55319148937,National Battlefield,709.49,TN,1,Ohio Valley
+365,SUCR,258142.29787234042,National Monument,3137.71,AZ,1,Southwest
+366,TAPR,16401.8,National Preserve,10882.67,KS,1,South
+367,THIS,116080.9574468085,Undesignated,88.5,DC,1,Southeast
+368,THJE,2000021.1489361702,Undesignated,18.36,DC,1,Southeast
+369,THKO,4548.212765957447,National Memorial,0.02,PA,1,Northeast
+370,THRB,15783.297872340425,National Historic Site,0.11,NY,1,Northeast
+371,THRI,21024.787234042553,National Historic Site,1.18,NY,1,Northeast
+372,THRO,540624.5744680851,National Park,70446.89,ND,1,Northern Rockies and Plains
+373,THST,4625.175,National Historic Site,328.25,MD,1,Southeast
+374,TICA,111865.74468085106,National Monument,250.0,UT,1,Southwest
+375,TILL,363.8,National Monument,5.7,"IL,MS",2,Multiple
+376,TIMU,426472.8735632184,Ecological & Historic Preserve,138.39,FL,1,Southeast
+377,TIMU,426472.8735632184,Ecological & Historic Preserve,46263.07,FL,1,Southeast
+378,TIMU,426472.8735632184,Ecological & Historic Preserve,138.39,FL,1,Southeast
+379,TIMU,426472.8735632184,Ecological & Historic Preserve,46263.07,FL,1,Southeast
+380,TONT,58035.63829787234,National Monument,1120.0,AZ,1,Southwest
+381,TUAI,14219.125,National Historic Site,89.68,AL,1,Southeast
+382,TUIN,119240.93617021276,National Historic Site,57.92,AL,1,Southeast
+383,TULE,570.45,National Monument,37.39,CA,1,West
+384,TUMA,48961.53191489362,National Historical Park,360.32,AZ,1,Southwest
+385,TUSK,11607.8,National Monument,22650.0,NV,1,West
+386,TUZI,104319.87234042553,National Monument,811.89,AZ,1,Southwest
+387,ULSG,24811.025,National Historic Site,9.6,MO,1,Ohio Valley
+388,UPDE,249284.17021276595,Scenic & Recreational River,74999.56,"NY,PA",2,Northeast
+389,VAFO,2174784.255319149,National Historical Park,3468.54,PA,1,Northeast
+390,VALL,20695.15,National Preserve,89831.84,NM,1,Southwest
+391,VALR,1377300.1489361702,National Memorial,21.64,HI,1,OCONUS
+392,VAMA,386838.3617021277,National Historic Site,211.65,NY,1,Northeast
+393,VICK,709184.5957446808,National Military Park,3048.27,"MS,LA",2,South
+394,VIIS,549972.7446808511,National Park,15041.03,VI,1,OCONUS-T
+395,VIVE,3252930.5531914895,Undesignated,2.18,DC,1,Southeast
+396,VOYA,221457.95744680852,National Park,218223.25,MN,1,Upper Midwest
+397,WABA,7615.325,National Historic Site,315.2,OK,1,South
+398,WACA,129544.0,National Monument,3200.61,AZ,1,Southwest
+399,WACO,46395.65,National Monument,107.23,TX,1,South
+400,WAMO,659640.8085106383,Undesignated,106.01,DC,1,Southeast
+401,WAPA,174707.8510638298,National Historical Park,2030.3,GU,1,OCONUS-T
+402,WEFA,18384.725,National Historical Park,74.2,CT,1,Northeast
+403,WHHO,747712.2528735632,Undesignated,18.07,DC,1,Southeast
+404,WHHO,747712.2528735632,Undesignated,18.07,DC,1,Southeast
+405,WHIS,965737.2765957447,National Recreation Area,42503.25,CA,1,West
+406,WHMI,70267.14893617021,National Historic Site,138.53,WA,1,Northwest
+407,WHSA,552175.8297872341,National Park,146344.31,NM,1,Southwest
+408,WICA,611387.0212765958,National Park,33970.84,SD,1,Northern Rockies and Plains
+409,WICL,6290.75,National Historic Site,0.68,AR,1,South
+410,WICR,195024.68085106384,National Battlefield,2446.75,MO,1,Ohio Valley
+411,WIHO,13989.36170212766,National Historic Site,3.64,OH,1,Ohio Valley
+412,WORI,24615.68085106383,National Historical Park,7.44,NY,1,Northeast
+413,WOTR,487603.3617021277,Undesignated,130.28,VA,1,Southeast
+414,WRBR,441226.6595744681,National Memorial,428.44,NC,1,Southeast
+415,WRST,47457.17021276596,National Park & Preserve,4852644.89,AK,1,OCONUS
+416,WRST,47457.17021276596,National Park & Preserve,8323146.48,AK,1,OCONUS
+417,WUPA,219036.6595744681,National Monument,35401.83,AZ,1,Southwest
+418,WWII,2376994.45,Undesignated,8.25,DC,1,Southeast
+419,WWIM,221892.3,Undesignated,1.39,DC,1,Southeast
+420,YELL,3168128.085106383,National Park,2219790.71,"ID,MT,WY",3,Multiple
+421,YOSE,3491685.8936170214,National Park,761747.5,CA,1,West
+422,YUCH,2795.1063829787236,National Preserve,2526512.44,AK,1,OCONUS
+423,ZION,2745701.9787234045,National Park,147242.66,UT,1,Southwest
