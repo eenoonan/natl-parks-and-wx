@@ -8,6 +8,9 @@ This project investigates if attendance at National Park Sites across the United
 Website: https://sites.google.com/view/nps-climate-extremes/home
 
 Repository Structure:
+- src
+- data
+- sample data
 
 
 Pre-Requisites:
@@ -23,10 +26,5 @@ Packages:
 Milestone Outline:
 Part 1: Define the project. Collect, clean, prepare, explore, and visualize data. 
 
-Part 2: Clustering (partitional and hierarchical) and Association Rule Mining (ARM).
+Part 2: Clustering (partitional and hierarchical) and Principal Component Analysis (PCA).
 
-Part 3: Naïve Bayes and Decision Trees
-
-Part 4: Support Vector Machines (SVM)
-
-Part  5: Linear Regression and Neural Networks
