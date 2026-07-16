@@ -22,9 +22,17 @@ Packages:
 - numpy
 - seaborn
 - matplotlib
+- sklearn
+- tensorflow
 
 Milestone Outline:
 Part 1: Define the project. Collect, clean, prepare, explore, and visualize data. 
 
 Part 2: Clustering (partitional and hierarchical) and Principal Component Analysis (PCA).
+
+Part 3: Decision Tree & Naive Bayes
+
+Part 4: Support Vector Machine (SVM)
+
+Part 5: Neural Network (NN)
 
